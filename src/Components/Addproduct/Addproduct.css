@@ -1,0 +1,33 @@
+.contex{
+    text-align: center;
+}
+.ship-formss{
+    margin:50px ;
+    
+}
+.ship-form-inputs{
+    display: block;
+    margin-top: 10px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid rgb(22, 213, 200);
+    border-radius: 5px;
+    width: 500px;
+}
+.error{
+    color: red;
+}
+.btnDesigns{
+    width: 500px;
+    margin-top: 30px;
+    padding: 8px;
+    background-color: rgb(15, 226, 163);
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    
+    height: 50px;
+}
+.manageProduct{
+    display: flex;
+}

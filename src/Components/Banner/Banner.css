@@ -1,0 +1,43 @@
+.banner_design{
+    display: flex;
+ 
+    justify-content: center;
+
+}
+.leftside{
+    width: 597px;
+    height: 323px;
+   
+}
+.rightside{
+    width: 310px;
+    height: 440px;
+    margin-left: 25px;
+    background-color: #FFE0B3;
+}
+.rightside img{
+    height: 430px;
+    width: 320px;
+    margin-left:10px;
+   
+
+}
+.btn_design{
+    height: 38px;
+    margin-top: 14px;
+   
+    width: 153px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    font-weight: 700px;
+}
+
+.caroDesign{
+    width: 1000px;
+    margin: 0 auto;
+}
+.caro{
+    
+    margin-left: 90px;
+}

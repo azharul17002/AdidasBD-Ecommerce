@@ -1,0 +1,49 @@
+.ship-forms{
+    margin-top: 50px;
+    
+}
+.primary{
+    color:rgba(111, 186, 6, 0.9);
+}
+.ship-form-input{
+    display: block;
+    margin-top: 30px;
+    height: 40px;
+    padding: 5px;
+    border: 1px solid orangered;
+    border-radius: 5px;
+    width: 300px;
+}
+.error{
+    color: red;
+}
+.btnDesign{
+    width: 315px;
+    margin-top: 30px;
+    padding: 8px;
+    background-color: orangered;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid black;
+    height: 50px;
+}
+.shipment-design{
+    width: 650px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.labelDesign input{
+    display: inline;
+    margin-left: 15px;
+    
+
+}
+.labelDesign label{
+    color:orangered;
+    width: 180px;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 19px;
+}

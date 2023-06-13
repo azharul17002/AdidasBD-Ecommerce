@@ -1,0 +1,43 @@
+
+.ppdesign{
+  width: 500px;
+  border: 3px dotted goldenrod;
+  height: 750px;
+  margin:0 auto;
+  padding: 40px;
+  box-shadow: 0px 0px 10px 10px grey;
+ 
+
+}
+.user-name{
+  color:blue;
+  font-weight: 800;
+}
+.btnDesignss button{
+  width: 150px;
+  height: 35px;
+  border:none;
+  background-color: cornflowerblue;
+  margin-bottom: 100px;
+  
+}
+.btnDesignss{
+  width: 120px;
+  margin: 0 auto;
+}
+.linkbutton{
+    width: 150px;
+    background: olivedrab;
+    height: 30px;
+    border:none;
+    color:white;
+
+  }
+ .product-design{
+ 
+  padding: 10px;
+  border-radius: 8px;
+  background-color: blueviolet;
+  font-size: 18px;
+  color:white;
+ }

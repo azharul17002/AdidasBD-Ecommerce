@@ -1,0 +1,19 @@
+.pay-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .pay-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .pay-button:active {
+    background-color: #003f7f;
+  }

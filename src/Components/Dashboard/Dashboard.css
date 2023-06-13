@@ -1,0 +1,51 @@
+.side-bar {
+    display: flex;
+
+}
+
+.main-section {
+    display: flex;
+
+}
+
+.box1 {
+    width: 290px;
+    padding: 25px;
+    height: 170px;
+    margin: 25px;
+    border: 1px solid red;
+    border-radius: 8px;
+    display: inline;
+    background-image: linear-gradient(to right, rgba(147, 182, 118, 0), rgb(237, 237, 236));
+}
+
+.icon {
+    margin-top: 65px;
+    margin-left: 100px;
+    color: blue;
+    font-size: 20px;
+    border: 1px solid yellowgreen;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    padding: 5px;
+    background-color: aquamarine;
+}
+
+.side-design {
+    width: 180px;
+
+    padding: 15px;
+    height: 500px;
+    border: 1px solid red;
+    margin-top: 25px;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgba(147, 182, 118, 0), rgb(249, 176, 158));
+}
+
+.list-item li {
+    font-size: 18px;
+
+    color: brown;
+
+}
